@@ -1,1 +1,2 @@
-introduction to C programming
+#Functions, nested loops
+this direction is for Functions, nested loops
